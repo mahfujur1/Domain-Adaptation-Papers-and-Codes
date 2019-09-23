@@ -7,13 +7,13 @@ The list of the domain adaptation and domain generalization papers.
 # 2019
 
 ## CVPR 2019
-- [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf) 
-- [Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1903.04064.pdf) 
-- [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/pdf/1903.07062.pdf) 
-- [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/pdf/1904.04663.pdf)
-- [Attending to Discriminative Certainty for Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.pdf)
--[Knowledge Adaptation for Efficient Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Knowledge_Adaptation_for_Efficient_Semantic_Segmentation_CVPR_2019_paper.pdf)
--[Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.pdf)
+- [Contrastive Adaptation Network for Unsupervised Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR 2019)
+- [Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/pdf/1903.04064.pdf) (CVPR 2019)
+- [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/pdf/1903.07062.pdf) (CVPR 2019)
+- [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/pdf/1904.04663.pdf) (CVPR 2019)
+- [Attending to Discriminative Certainty for Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR 2019)
+-[Knowledge Adaptation for Efficient Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Knowledge_Adaptation_for_Efficient_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR 2019)
+-[Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhong_Invariance_Matters_Exemplar_Memory_for_Domain_Adaptive_Person_Re-Identification_CVPR_2019_paper.pdf) (CVPR 2019)
 
 ## WACV 2019
 - [Multi-component Image Translation for Deep Domain Generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658643) [Arxiv](https://arxiv.org/pdf/1812.08974.pdf) (WACV 2019)
