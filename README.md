@@ -7,7 +7,7 @@ The list of the domain adaptation and domain generalization papers.
 # 2019
 
 ## WACV 2019
-- [Multi-component Image Translation for Deep Domain Generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658643) [Arxiv](https://arxiv.org/pdf/1812.08974.pdf) (WACV 2019)
+- [Multi-component Image Translation for Deep Domain Generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658643) [Download from Arxiv](https://arxiv.org/pdf/1812.08974.pdf) (WACV 2019)
 
 ## CVPR 2019
 - [Attending to Discriminative Certainty for Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR 2019)
