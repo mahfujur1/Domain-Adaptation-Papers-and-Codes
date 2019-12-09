@@ -3,6 +3,12 @@
 
 The list of the domain adaptation and domain generalization papers.
 
+# Journal
+
+## Pattern Recognition 
+- [Correlation-aware Adversarial Domain Adaptation and Generalization](https://www.sciencedirect.com/science/article/pii/S003132031930425X) [(Pre-print from Arxiv)](https://arxiv.org/abs/1911.12983)
+
+
 
 # 2019
 
