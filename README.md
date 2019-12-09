@@ -4,18 +4,18 @@
 The list of the domain adaptation and domain generalization papers.
 
 # Journal
-# 2019
-## Pattern Recognition 
+## 2019
+### Pattern Recognition 
 - [Correlation-aware Adversarial Domain Adaptation and Generalization](https://www.sciencedirect.com/science/article/pii/S003132031930425X) [(Pre-print from Arxiv)](https://arxiv.org/abs/1911.12983) [(Code)](https://github.com/mahfujur1/CA-DA-DG) (Pattern Recognition 2019)
 
+# Conferences 
 
+## 2019
 
-# 2019
-
-## WACV 2019
+### WACV 2019
 - [Multi-component Image Translation for Deep Domain Generalization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8658643) [(Download from Arxiv)](https://arxiv.org/pdf/1812.08974.pdf) (WACV 2019)
 
-## CVPR 2019
+### CVPR 2019
 - [Attending to Discriminative Certainty for Domain Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.pdf) (CVPR 2019)
 
 - [Knowledge Adaptation for Efficient Semantic Segmentation](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_Knowledge_Adaptation_for_Efficient_Semantic_Segmentation_CVPR_2019_paper.pdf) (CVPR 2019)
@@ -165,7 +165,7 @@ The list of the domain adaptation and domain generalization papers.
 
 
 
-## ICML 2019
+### ICML 2019
 - [Domain Agnostic Learning with Disentangled Representations](http://proceedings.mlr.press/v97/peng19b/peng19b.pdf) (ICML 2019)
 - [Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf) (ICML 2019)
 - [Learning What and Where to Transfer](http://proceedings.mlr.press/v97/jang19b/jang19b.pdf) (ICML 2019)
@@ -177,5 +177,5 @@ The list of the domain adaptation and domain generalization papers.
 - [Multi-Domain Adversarial Learning](https://openreview.net/forum?id=Sklv5iRqYX) (ICML 2019)
 - [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX) (ICML 2019)
 
-## AAAI 2019
+### AAAI 2019
 - [Transferable attention for domain adaptation](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf) (AAAI 2019)
